@@ -18,4 +18,10 @@ Introducción al core programming de Swift, creando una pequeña y simple app de
 * Randomización
 
 
+## Capturas
+
+
+![Splash Screen](Documentation/captura-splash.png)
+![Screen1](Documentation/captura-2.png)
+![Screen2](Documentation/captura-3.png)
 
